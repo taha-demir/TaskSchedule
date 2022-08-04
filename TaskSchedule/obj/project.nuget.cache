@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oto6qZpV1whQ0WlPXqAo2L4XJaDtxKXj5ddrv+7SMM9lj4/cJbJqZ+Gs61SuSQSJIdTAKJ+Y+w8h9ulEV6UK0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Şahin\\Downloads\\TaskSchedule\\TaskSchedule\\TaskSchedule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Şahin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,117 @@
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\appsettings.json
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.exe
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.deps.json
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.runtimeconfig.json
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.runtimeconfig.dev.json
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.dll
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\ref\TaskSchedule.dll
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.pdb
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.Views.dll
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.Views.pdb
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.AssemblyReference.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.AssemblyInfoInputs.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.AssemblyInfo.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorAssemblyInfo.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorAssemblyInfo.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\scopedcss\bundle\TaskSchedule.styles.css
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\staticwebassets\TaskSchedule.StaticWebAssets.Manifest.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.TagHelpers.input.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.TagHelpers.output.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorCoreGenerate.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorTargetAssemblyInfo.cs
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.Views.pdb
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.dll
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\ref\TaskSchedule.dll
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.pdb
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.genruntimeconfig.cache
+C:\Users\Şahin\Desktop\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.CopyComplete
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.AssemblyReference.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.AssemblyInfoInputs.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.AssemblyInfo.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorAssemblyInfo.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorAssemblyInfo.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\staticwebassets\TaskSchedule.StaticWebAssets.Manifest.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\staticwebassets\TaskSchedule.StaticWebAssets.xml
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\scopedcss\bundle\TaskSchedule.styles.css
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.TagHelpers.input.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.TagHelpers.output.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorCoreGenerate.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorTargetAssemblyInfo.cs
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.dll
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\ref\TaskSchedule.dll
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.pdb
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\appsettings.json
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.exe
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.deps.json
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.runtimeconfig.json
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.runtimeconfig.dev.json
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.dll
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\ref\TaskSchedule.dll
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.pdb
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.Views.dll
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.Views.pdb
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.Views.pdb
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.genruntimeconfig.cache
+C:\Users\Taha Demir\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.CopyComplete
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\appsettings.json
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.StaticWebAssets.xml
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.exe
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.deps.json
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.runtimeconfig.json
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.runtimeconfig.dev.json
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.dll
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\ref\TaskSchedule.dll
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.pdb
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.Views.dll
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\bin\Debug\net5.0\TaskSchedule.Views.pdb
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.AssemblyReference.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.AssemblyInfoInputs.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.AssemblyInfo.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorAssemblyInfo.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorAssemblyInfo.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\scopedcss\bundle\TaskSchedule.styles.css
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\staticwebassets\TaskSchedule.StaticWebAssets.Manifest.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.TagHelpers.input.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.TagHelpers.output.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorCoreGenerate.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorTargetAssemblyInfo.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.RazorTargetAssemblyInfo.cs
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.Views.pdb
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.dll
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\ref\TaskSchedule.dll
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.pdb
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.genruntimeconfig.cache
+C:\Users\Şahin\Downloads\TaskSchedule\TaskSchedule\obj\Debug\net5.0\TaskSchedule.csproj.CopyComplete

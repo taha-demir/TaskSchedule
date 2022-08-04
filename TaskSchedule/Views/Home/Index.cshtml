@@ -1,0 +1,139 @@
+﻿@model Schedule
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<div class="text-center" style="margin-left: 45px;">
+    <h1 class="display-4" style="margin-left: 162px;">HAFTALIK PLAN</h1>
+    <div class="container" style="margin-left: 40px;">
+        <button class="btn btn-info" onclick="refresh()" id="update">
+            YENİDEN PLANLA
+        </button>
+    </div>
+
+
+    <br />
+    <br />
+    <br />
+    <table class="table table-hover table-bordered table-striped" id="plan" style="height: 450px;">
+        <tr>
+            <th style=" background-color: #5bc0deb5; margin-left: 45px;">Gün</th>
+            @for (int i = 0; i < 6; i++)
+            {
+                <th style=" background-color: #5bc0deb5;">Kişi</th>
+                <th style=" background-color: #5bc0deb5;">Görev</th>
+                <th style=" background-color: #5bc0deb5;">Zorluk</th>
+            }
+        </tr>
+
+        <tr>
+            <td style=" background-color: #5bc0deb5;"> <b>1. Gün </b></td>
+            @for (int i = 0; i < 6; i++)
+            {
+                <td style="background-color: #5bc0de40;">
+                    @Model.FirstDay[i].Employee.Name
+                    @Model.FirstDay[i].Employee.Surname
+                </td>
+                <td>@Model.FirstDay[i].Task.Name</td>
+                <td>@Model.FirstDay[i].Task.Score</td>
+            }
+        </tr>
+
+        <tr>
+            <td style=" background-color: #5bc0deb5;"> <b>2. Gün</b></td>
+            @for (int i = 0; i < 6; i++)
+            {
+                <td style="background-color: #5bc0de40;">
+                    @Model.SecondDay[i].Employee.Name
+                    @Model.SecondDay[i].Employee.Surname
+                </td>
+                <td>@Model.SecondDay[i].Task.Name</td>
+                <td>@Model.SecondDay[i].Task.Score</td>
+            }
+        </tr>
+
+        <tr>
+            <td style=" background-color: #5bc0deb5;"> <b>3. Gün</b></td>
+            @for (int i = 0; i < 6; i++)
+            {
+                <td style="background-color: #5bc0de40;">
+                    @Model.ThirdDay[i].Employee.Name
+                    @Model.ThirdDay[i].Employee.Surname
+                </td>
+                <td>@Model.ThirdDay[i].Task.Name</td>
+                <td>@Model.ThirdDay[i].Task.Score</td>
+            }
+        </tr>
+
+        <tr>
+            <td style=" background-color: #5bc0deb5;"> <b>4. Gün</b></td>
+            @for (int i = 0; i < 6; i++)
+            {
+                <td style="background-color: #5bc0de40;">
+                    @Model.FourthDay[i].Employee.Name
+                    @Model.FourthDay[i].Employee.Surname
+                </td>
+                <td>@Model.FourthDay[i].Task.Name</td>
+                <td>@Model.FourthDay[i].Task.Score</td>
+            }
+        </tr>
+
+        <tr>
+            <td style=" background-color: #5bc0deb5;"> <b>5. Gün</b></td>
+            @for (int i = 0; i < 6; i++)
+            {
+                <td style="background-color: #5bc0de40;">
+                    @Model.FifthDay[i].Employee.Name
+                    @Model.FifthDay[i].Employee.Surname
+                </td>
+                <td>@Model.FifthDay[i].Task.Name</td>
+                <td>@Model.FifthDay[i].Task.Score</td>
+            }
+        </tr>
+    </table>
+
+    <br />
+    <br />
+    <br />
+
+    <br />
+    <br />
+    <br />
+</div>
+
+
+<script>
+
+
+    function myFunction() {
+
+        const update = document.getElementById("update");
+        update.style.visibility = "visible";
+        const visible = element.style.visibility;
+
+    }
+
+    function refresh() {
+        reloadP()
+    }
+
+    window.onload = function () {
+        var reloading = sessionStorage.getItem("reloading");
+        if (reloading) {
+            sessionStorage.removeItem("reloading");
+            myFunction();
+        }
+    }
+
+    function reloadP() {
+        sessionStorage.setItem("reloading", "true");
+        document.location.reload();
+    }
+</script>
